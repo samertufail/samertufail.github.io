@@ -1,13 +1,13 @@
 # Site settings
-title: Zaki Shaheen
-email: zakishaheen@me.com
+title: Samer Tufail
+email: samertufail@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Zaki starts here. 
+  Samer starts here. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://zakishaheen.github.io" # the base hostname & protocol for your site
-twitter_username: meetzaki
-github_username: zakishaheen 
+url: "http://samertufail.github.io" # the base hostname & protocol for your site
+twitter_username: samertfl
+github_username: samertufail 
 
 # Build settings
 markdown: kramdown
