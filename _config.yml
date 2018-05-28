@@ -1,10 +1,10 @@
-url: http://samertufail.github.io
-baseurl: /
+url: http://kirbyt.github.io
+baseurl: /timeline-jekyll-theme
 
 # Site Settings
-title: Samer Tufail
+title: Timeline
 description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
-keywords: "Samer Tufail, Samer"
+keywords: "jekyll, theme"
 google-tracking-id:
 
 # Career Settings
